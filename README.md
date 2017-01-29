@@ -1,19 +1,26 @@
-# WORKINGout
-
 1. What is the proposed name for your Web application?
-    - WORKINGout
-2. Who is the target audience for your Web application?
-    - Working professionals with limited time to go to the gym but are health concious.
+My web application is called “Travel Pal in USA”. People can find travel pals in this platform.
+  
+2. Who is the target audience?
+According to the name, this application aims at English-speaking people who want to travel in USA, and need to find one or more partners to travel together. 
+
 3. What problem is it intended to solve for the target audience?
-    - There's hundreds of at home workout programs. Some are better than others, and some aren't very good at all. Sorting through these workouts is a challenge and working professionals don't have a place where they can share experiences. I'll provide workout reviews, individualized recommendations and coaching (for a price), and motiviational material.
+a)	Some people desire to travel to some places that no friends are interested in, however, they do not want to be alone. Some people have several travel partners but wants more for many reasons, like reducing average traveling fee and sharing rooms.
+b)	It is often difficult for people to find proper travel partners in their social networks. On the one hand, their social networks are limited. On the other hand, they need to post their advertisements in many different places, such as Twitter, Facebook, and Weibo.  “Travel Pal in USA” provides the platform for them to easily find as many as possible people with the same travel desire. 
+
 4. How will it meet the minimum project requirements?
-    - My site will use the freemium model. Most of the content will be freely accessible without a login. If users want to interact with each other, a login will be required which I'll store in my database. I'll also support OAuth2 authentication if the users do not want to create an username and password on my site. Once the user is signed up for the site I'll have 2 roles (free, and paid). Paid users will have access to additional parts of the web site. Paid users will also have to enter payment info. I'll use PayPal for payments. All public data will be accessible through RESTful services. All RESTful services will data in both JSON and XML formats. 
+a)	New users need to sign up if they want to interact with other users. Old users can sign in to their accounts.
+b)	Users can search possible travel partners by filtering destination, departure, departure date, returning date, language, gender, and age.
+c)	Registered users can see the travel plan of other users, and chat with other uses.
+
 5. Why is your proposed Web application unique or creative beyond simply meeting the minimum requirements?
-     - My site will customize the experience to the users behaviors. I'll track site usage, interactions with others, and content viewed to provide a customized experience. I'll engage active users with advice on how to advance their training. I'll engage inactive users by sending motivational messages encouraging them to join the community.
+The interface is intuitive and easy to use, which help users find favorable travel partners conveniently and efficiently.
+
 
 
 
 # TODO : Your Project Name
+“Travel Pal in USA”
 
 TODO : Please provide a detailed project description.
 
