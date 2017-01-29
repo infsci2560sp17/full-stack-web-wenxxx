@@ -7,7 +7,7 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 ### Added
 - TBD.
 
-## v1.2 - 2017-01-29
+## v1.3 - 2017-01-29
 ### Added
 - Answered in README.md
     - What is the proposed name for your Web application?
@@ -15,7 +15,11 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
     - What problem is it intended to solve for the target audience?
     - How will it meet the minimum project requirements?
     - Why is your proposed Web application unique or creative beyond simply meeting the minimum requirements?
-
+    
+## v1.2 - 2017-01-28
+### Added
+- Add nothing. This is just a version for my self to learn how to add correct tag.
+    
 ## v1.1 - 2017-01-12
 ### Added
 - Cloned, configured, and compiled the scaffold project.
