@@ -1,19 +1,24 @@
 1. What is the proposed name for your Web application?
+---
 My web application is called “Travel Pal in USA”. People can find travel pals in this platform.
   
 2. Who is the target audience?
+---
 According to the name, this application aims at English-speaking people who want to travel in USA, and need to find one or more partners to travel together. 
 
 3. What problem is it intended to solve for the target audience?
+---
 a)	Some people desire to travel to some places that no friends are interested in, however, they do not want to be alone. Some people have several travel partners but wants more for many reasons, like reducing average traveling fee and sharing rooms.
 b)	It is often difficult for people to find proper travel partners in their social networks. On the one hand, their social networks are limited. On the other hand, they need to post their advertisements in many different places, such as Twitter, Facebook, and Weibo.  “Travel Pal in USA” provides the platform for them to easily find as many as possible people with the same travel desire. 
 
 4. How will it meet the minimum project requirements?
+---
 a)	New users need to sign up if they want to interact with other users. Old users can sign in to their accounts.
 b)	Users can search possible travel partners by filtering destination, departure, departure date, returning date, language, gender, and age.
 c)	Registered users can see the travel plan of other users, and chat with other uses.
 
 5. Why is your proposed Web application unique or creative beyond simply meeting the minimum requirements?
+---
 The interface is intuitive and easy to use, which help users find favorable travel partners conveniently and efficiently.
 
 
