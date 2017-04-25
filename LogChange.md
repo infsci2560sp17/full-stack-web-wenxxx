@@ -3,9 +3,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
-## [Unreleased]
+## [v1.4]
 ### Added
-- TBD.
+- Create Entity "Account"
+- Create Repository "AccountRepository"
+- Create RESTful service "AccountService"
+- Create Controller "AccountsController"
+- Create Templates "accounts.html"
+- Update README.md
+- Update CHANGELOG.md
 
 ## [v1.3] - 2017-01-29
 ### Added
