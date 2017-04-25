@@ -50,7 +50,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - Configured developer workspace.
 - Deployed to Heroku.
 
-[Unreleased]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.5...HEAD
+[Unreleased]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.6...HEAD
+[v1.6]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.5...v1.6
 [v1.5]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.4...v1.5
 [v1.4]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.3...v1.4
 [v1.3]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.2...v1.3
