@@ -29,7 +29,7 @@ The interface is intuitive and easy to use, which help users find favorable trav
 
 ## Changelog
 
-[Changelog](Changelog.md)
+[Changelog](LogChange.md)
 
 ## Web Site
 

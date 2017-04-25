@@ -3,8 +3,17 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
-## [v1.5]
+## [v1.6] 
+### Added
+- Added images to the main page 
+- Added css, js.
 
+### Changed
+- Updated the 'README' file.
+- Modified CHANGELOG.md
+- Updated the background.
+
+## [v1.5]
 ### Added
 - Created three new entities -- "match", "forum"
 - Created a 'index' html file as main page.
