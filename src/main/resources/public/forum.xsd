@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+
+<xs:element name="forum">
+      <xs:complexType>
+      <xs:sequence>
+        <xs:element name="thread" maxOccurs="unbounded" minOccurs="0">
+          <xs:complexType>
+            <xs:sequence>
+              <!-- element one -->
+              <xs:element name="title">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                    <xs:maxLength value = "50"/>
+                    </xs:restriction>
+                  </xs:simpleType>
+              </xs:element>
+              <!-- element two-->
+              <xs:element name="username">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                    <xs:maxLength value = "40"/>
+                    </xs:restriction>
+                  </xs:simpleType>
+              </xs:element>
+              <!-- element three -->
+              <xs:element name="language">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                    <xs:maxLength value = "20"/>
+                    </xs:restriction>
+                  </xs:simpleType>
+              </xs:element>
+              <!-- element four -->
+              <xs:element name="place">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                    <xs:maxLength value = "50"/>
+                    </xs:restriction>
+                  </xs:simpleType>
+              </xs:element>
+              <!-- element five -->
+              <xs:element name="description">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                    <xs:maxLength value = "200"/>
+                    </xs:restriction>
+                  </xs:simpleType>
+              </xs:element>
+
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element><!-- end of element thread -->
+      </xs:sequence>
+    </xs:complexType>
+  </xs:element><!-- end of element forum -->
+
+</xs:schema>
