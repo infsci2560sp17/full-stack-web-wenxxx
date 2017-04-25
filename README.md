@@ -1,3 +1,5 @@
+## Travel Pal in USA
+
 1. What is the proposed name for your Web application?
 ---
 My web application is called “Travel Pal in USA”. People can find travel pals in this platform.
@@ -22,16 +24,7 @@ c)	Registered users can see the travel plan of other users, and chat with other 
 The interface is intuitive and easy to use, which help users find favorable travel partners conveniently and efficiently.
 
 
-
-
-# TODO : Your Project Name
-“Travel Pal in USA”
-
-TODO : Please provide a detailed project description.
-
 ## Build status
-
-TODO : Modify to match your project specific Travis Build
 [![Build Status](https://travis-ci.org/infsci2560sp17/full-stack-web-wenxxx.svg?branch=master)](https://travis-ci.org/infsci2560sp17/full-stack-web-wenxxx)
 
 ## Web Site
@@ -39,22 +32,18 @@ TODO : Modify to match your project specific Travis Build
 TODO : Please provide a link to your web site ![](https://https://cryptic-sea-53580.herokuapp.com/)
 
 ## Key Features
+* Registration: New users need to sign up if they want to interact with other users.
+* Login: Old users can sign in to their accounts.
+* Find a match: Users can search possible travel partners by filtering destination, departure place, language, and gender.
+* Forum: Registered users can share or browser travel plan or experience, transportation method, and delicious food on the forum.
 
-TODO : Please list key features of your project.
-
-* Key Feature 1
-* Key Feature 2
-* Key Feature N
 
 ## Project Details
 
 ### Landing Page
+As for a welcome page, it includes title "Travel Pal in USA", the navigation bar with “homepage”, “find a match”, “forum”, "login", and "registration".
+In the middle of the page, the user will be welcomed by a cheerful American cartoon map.
 
-TODO : please provide a description of your landing page inluding a screen shot ![](https://.../image.JPG)
-
-### User Input Form
-
-TODO : please provide a description of at least 1 user input form including a screen shot ![](https://.../image.jpg)
 
 ## API
 
@@ -113,8 +102,6 @@ All known errors cause the resource to return HTTP error code header together wi
 ```
 
 ## Technologies Used
-
-TODO : List all technologies used in your project
 
 - [Spring Boot](https://projects.spring.io/spring-boot/) - Takes an opinionated view of building production-ready Spring applications.
 - [Thymleaf](http://www.thymeleaf.org/) - Thymeleaf is a modern server-side Java template engine for both web and standalone environments.

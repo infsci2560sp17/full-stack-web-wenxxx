@@ -3,6 +3,15 @@ All notable changes to this project will be documented in this file.
 
 The format is based on [Keep a Changelog](http://keepachangelog.com/).
 
+## [v1.5]
+
+### Added
+- Created three new entities -- "match", "forum"
+- Created a 'index' html file as main page.
+- Added a navigation part.
+- Added a "main.java"
+- Created new corresponding Repositories, Services, Models, Html files, and Controllers.
+
 ## [v1.4]
 ### Added
 - Create Entity "Account"
@@ -33,6 +42,8 @@ The format is based on [Keep a Changelog](http://keepachangelog.com/).
 - Deployed to Heroku.
 
 [Unreleased]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.3...HEAD
+[v1.3]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.4...v1.5
+[v1.3]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.3...v1.4
 [v1.3]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.2...v1.3
 [v1.2]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/v1.1...v1.2
 [v1.1]: https://github.com/infsci2560sp17/full-stack-web-wenxxx/compare/...v1.1
