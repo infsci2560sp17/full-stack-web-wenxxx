@@ -41,23 +41,22 @@ The interface is intuitive and easy to use, which help users find favorable trav
 * Find a match: Users can search possible travel partners by filtering destination, departure place, language, and gender.
 * Forum: Registered users can share or browser travel plan or experience, transportation method, and delicious food on the forum.
 
+## Project Details
 
- ## Project Details
+### Landing Page
+As for a welcome page, it includes title "Travel Pal in USA", the navigation bar with “homepage”, “find a match”, “forum”, "login", and "registration".
+In the middle of the page, the user will be welcomed by a cheerful American cartoon map.
 
-    ### Landing Page
-    As for a welcome page, it includes title "Travel Pal in USA", the navigation bar with “homepage”, “find a match”, “forum”, "login", and "registration".
-    In the middle of the page, the user will be welcomed by a cheerful American cartoon map.
-
-    ### Home Page
-    ![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Homepage.png)
-    ### Registration
-    ![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Register.png)
-    ### Log in
-    ![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Login.png)
-    ### Find a match
-    ![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Match.png)
-    ### Forum
-    ![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Forum.png)
+### Home Page
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Homepage.png)
+### Registration
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Register.png)
+### Log in
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Login.png)
+### Find a match
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Match.png)
+### Forum
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Forum.png)
 
 
 ## API
