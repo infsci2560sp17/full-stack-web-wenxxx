@@ -27,9 +27,13 @@ The interface is intuitive and easy to use, which help users find favorable trav
 ## Build status
 [![Build Status](https://travis-ci.org/infsci2560sp17/full-stack-web-wenxxx.svg?branch=master)](https://travis-ci.org/infsci2560sp17/full-stack-web-wenxxx)
 
+## Changelog
+
+[Changelog](Changelog.md)
+
 ## Web Site
 
-TODO : Please provide a link to your web site ![](https://https://cryptic-sea-53580.herokuapp.com/)
+[](https://https://cryptic-sea-53580.herokuapp.com/)
 
 ## Key Features
 * Registration: New users need to sign up if they want to interact with other users.
@@ -37,13 +41,22 @@ TODO : Please provide a link to your web site ![](https://https://cryptic-sea-53
 * Find a match: Users can search possible travel partners by filtering destination, departure place, language, and gender.
 * Forum: Registered users can share or browser travel plan or experience, transportation method, and delicious food on the forum.
 
-
 ## Project Details
 
 ### Landing Page
 As for a welcome page, it includes title "Travel Pal in USA", the navigation bar with “homepage”, “find a match”, “forum”, "login", and "registration".
 In the middle of the page, the user will be welcomed by a cheerful American cartoon map.
 
+### Home Page
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Homepage.png)
+### Registration
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Register.png)
+### Log in
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Login.png)
+### Find a match
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Match.png)
+### Forum
+![](https://github.com/infsci2560sp17/full-stack-web-wenxxx/blob/master/src/main/resources/public/images/Forum.png)
 
 ## API
 
